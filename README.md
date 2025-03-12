@@ -15,11 +15,7 @@ When replicating the analysis, first run one of the following scripts, which per
 When the simulation finishes, run one of the following scripts, to plot the results
 
 - Plot_DAN.m: a function for plotting the results from Run_DAN.m
-
 - Plot_DDM.m: a function for plotting the results from Run_DDM.m
-
 - Plot_FVT.m: a function for plotting the results from Run_DAN.m
-
 - Plot_RML_C.m: a function for plotting the results from Run_DAN.m
-
 - Plot_Vrt.m: a function for plotting the results from Run_DAN.m
