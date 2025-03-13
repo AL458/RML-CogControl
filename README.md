@@ -10,7 +10,7 @@ When replicating the analysis, first run one of the following scripts, which per
 - Run_FVT.m: a function for running the foraging value simulations performed in the main text and supplementary materials
 - Run_Vrt.m: a function for running the analysis changing the vrt parameter performed in the supplementary materials (note: this analysis takes significantly longer than the other analyses)
 - Run_RML_C.m: a function for running the drift diffusion model with the RML-C rather than the RML simulations performed in the supplementary materials
-
+- Run_WM.m: a function for running the FROST model to simulate the WM task performed in the main text
 
 When the simulation finishes, run one of the following scripts, to plot the results
 
@@ -19,3 +19,4 @@ When the simulation finishes, run one of the following scripts, to plot the resu
 - Plot_FVT.m: a function for plotting the results from Run_DAN.m
 - Plot_RML_C.m: a function for plotting the results from Run_DAN.m
 - Plot_Vrt.m: a function for plotting the results from Run_DAN.m
+- Plot_WM.m: a function for plotting the results from Run_WM.m
